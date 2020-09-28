@@ -1,0 +1,60 @@
+{
+  "legendary": ["Corruptor", "Sect Leader", "Zombie"],
+  "epic": [
+    "Wolf Seer",
+    "Seer",
+    "Gunner",
+    "Arsonist",
+    "Bandit",
+    "Bomber",
+    "Cannibal",
+    "Illusionist"
+  ],
+  "rare": [
+    "Junior Werewolf",
+    "Nightmare Werewolf",
+    "Werewolf Berserk",
+    "Shadow Wolf",
+    "Aura Seer",
+    "Spirit Seer",
+    "Detective",
+    "Doctor",
+    "Medium",
+    "Serial Killer"
+  ],
+  "uncommon": [
+    "Wolf Shaman",
+    "Guardian Wolf",
+    "Kitten Wolf",
+    "Seer Apprentice",
+    "Jailer",
+    "Sheriff",
+    "Forger",
+    "Witch",
+    "Beast Hunter",
+    "Flower Child",
+    "Avenger",
+    "Fool",
+    "Headhunter"
+  ],
+  "common": [
+    "Alpha Werewolf",
+    "Wolf Pacifist",
+    "Werewolf",
+    "Sorcerer",
+    "Villager",
+    "Bodyguard",
+    "Tough Guy",
+    "Red Lady",
+    "Fortune Teller",
+    "Loudmouth",
+    "Priest",
+    "Marksman",
+    "Mayor",
+    "Pacifist",
+    "Grumpy Grandma",
+    "Cupid",
+    "President",
+    "Cursed"
+  ]
+}

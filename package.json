@@ -1,0 +1,30 @@
+{
+  "name": "werewolf-companion",
+  "version": "2.2.2",
+  "description": "A Discord bot based around the mobile game Werewolf Online.",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "keywords": [
+    "Werewolf",
+    "Online",
+    "Werewolf",
+    "Online",
+    "Apteryx",
+    "WWO",
+    "Werewolf",
+    "Companion",
+    "Companion",
+    "WWC"
+  ],
+  "author": "Blackbox Software",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "quick.db": "^7.1.1",
+    "random-puppy": "^1.1.0",
+    "raspberry-info": "^1.0.4"
+  }
+}

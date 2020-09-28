@@ -1,0 +1,9 @@
+{
+  "prefix": "*",
+  "apteryx": "394469731085844502",
+  "statuses": {
+    "watching": ["the chat for *help", "memes with *meme"],
+    "playing": ["Werewolf Online"]
+  },
+  "QUEUE_LIMIT": "10"
+}

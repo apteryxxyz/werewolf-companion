@@ -1,0 +1,78 @@
+{
+  "economy": {
+    "gold": "<:gold:705737242080968815>",
+    "rose": "<:rose:705743050248290355>",
+    "gem": "<:gem:705737279238438953>"
+  },
+  "lootboxes": {
+    "lootbox": "<:lootbox:705740610644213761>",
+    "roselootbox": "<:roselootbox:709223095357014017>",
+    "gemlootbox": "<:gemlootbox:709223063409000529>"
+  },
+  "items": {
+    "talisman": "<:talisman:708343469105741865>"
+  },
+  "roles": {
+    "legendary": {
+      "Corruptor": "<:Corruptor:709003788014583858>",
+      "SectLeader": "<:SectLeader:709003789499236392>",
+      "Zombie": "<:Zombie:709005269425979392>"
+    },
+    "epic": {
+      "WolfSeer": "<:WolfSeer:709004057909526599>",
+      "Seer": "<:Seer:709003790065598574>",
+      "Gunner": "<:Gunner:709003784759803907>",
+      "Arsonist": "<:Arsonist:709003779806199908>",
+      "Bandit": "<:Bandit:709004057796280381>",
+      "Bomber": "<:Bomber:709003784659009617>",
+      "Cannibal": "<:Cannibal:709003789654425680>"
+    },
+    "rare": {
+      "JuniorWerewolf": "<:JuniorWerewolf:709003789054771260>",
+      "NightmareWerewolf": "<:NightmareWerewolf:709003782889144371>",
+      "WerewolfBerserk": "<:WerewolfBerserk:709004058677084221>",
+      "ShadowWolf": "<:ShadowWolf:709004058567901264>",
+      "AuraSeer": "<:AuraSeer:709003779118334014>",
+      "SpiritSeer": "<:SpiritSeer:709003789713014824>",
+      "Detective": "<:Detective:709003781534253107>",
+      "Doctor": "<:Doctor:709003780754112522>",
+      "Medium": "<:Medium:709003788001869874>",
+      "SerialKiller": "<:SerialKiller:709003789373276161>"
+    },
+    "uncommon": {
+      "WolfShaman": "<:WolfShaman:709004058693992458>",
+      "GuardianWolf": "<:GuardianWolf:709004058228293682>",
+      "KittenWolf": "<:KittenWolf:709003788949651527>",
+      "SeerApprentice": "<:SeerApprentice:709003789776060476>",
+      "Jailer": "<:Jailer:709003784432386058>",
+      "Sheriff": "<:Sheriff:709004058198802503>",
+      "Forger": "<:Forger:709004058001801298>",
+      "Witch": "<:Witch:709004058127761460>",
+      "BeastHunter": "<:BeastHunter:709003778824601711>",
+      "FlowerChild": "<:FlowerChild:709005303471144970>",
+      "Avenger": "<:Avenger:709003779156082761>",
+      "Fool": "<:Fool:709003785120251997>",
+      "Headhunter": "<:Headhunter:709003789088325722>"
+    },
+    "common": {
+      "AlphaWerewolf": "<:AlphaWerewolf:709003779554541608>",
+      "WolfPacifist": "<:WolfPacifist:709004058744193034>",
+      "Werewolf": "<:werewolf:705737242962034698>",
+      "Sorcerer": "<:Sorcerer:709003789579059310>",
+      "Villager": "<:Villager:709003789125943307>",
+      "Bodyguard": "<:Bodyguard:709003779491627058>",
+      "ToughGuy": "<:ToughGuy:709003788379226123>",
+      "RedLady": "<:RedLady:709003790421983283>",
+      "FortuneTeller": "<:FortuneTeller:709010989135298582>",
+      "Loudmouth": "<:Loudmouth:709004058714832927>",
+      "Priest": "<:Priest:709003789943701525>",
+      "Marksman": "<:Marksman:709003789625196554>",
+      "Mayor": "<:Mayor:709003785111994389>",
+      "Pacifist": "<:Pacifist:709003790044627014>",
+      "GrumpyGrandma": "<:GrumpyGrandma:709003788329156690>",
+      "Cupid": "<:Cupid:709003781055971378>",
+      "President": "<:President:709003789671071794>",
+      "Cursed": "<:Cursed:709003790237564978>"
+    }
+  }
+}
